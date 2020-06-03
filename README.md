@@ -13,3 +13,7 @@ The first part of this project was initialize a new React app and create multipl
     <li>SearchBar</li>
 </ul>
 
+
+### `2. Props`
+
+Added props to the code to reduce the amount of instancesof Businesses. Now the app can render as many business as are inputted into the code. Still static at this point.
