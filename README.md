@@ -17,3 +17,8 @@ The first part of this project was initialize a new React app and create multipl
 ### `2. Props`
 
 Added props to the code to reduce the amount of instancesof Businesses. Now the app can render as many business as are inputted into the code. Still static at this point.
+
+
+### `3. State`
+
+Added state to the SearchBar component. This allowed the app to pass information when the user selects a filter option.
