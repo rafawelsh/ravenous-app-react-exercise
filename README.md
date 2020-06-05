@@ -22,3 +22,8 @@ Added props to the code to reduce the amount of instancesof Businesses. Now the 
 ### `3. State`
 
 Added state to the SearchBar component. This allowed the app to pass information when the user selects a filter option.
+
+### `4. Yelp API`
+
+Connected the app to the Yelp API to request calls for restaurants searched by the user. The sorting options were already created, 'best match', 'highest rated', and 'most reviewed'. The last step just focused on creating the fetch calls and hooking up the Yelp.js files to App.js. The app is now able to render restaurants as a lite version of Yelp.
+
